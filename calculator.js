@@ -1,4 +1,4 @@
-import {Calc2} from "Calc2.js";
+import {Calc2} from "./Calc2.js";
 
 function calculate1(expression) {
     return eval(expression);
